@@ -1,0 +1,8 @@
+{
+  "[yaml]": {
+    "editor.autoIndent": "full"
+  },
+  "[dockercompose]": {
+    "editor.autoIndent": "full"
+  }
+}
